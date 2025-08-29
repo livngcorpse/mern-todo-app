@@ -39,3 +39,4 @@ Thumbs.db
 # Lock files (optional, if you don’t want them)
 # package-lock.json
 # yarn.lock
+node_modules/
